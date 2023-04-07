@@ -83,6 +83,7 @@ ul {
 
 li {
     text-decoration: underline;
+    color: white;
 }
 
 nav {
@@ -110,6 +111,15 @@ nav a {
 nav a:hover {
     background-color: #ddd;
   }
+
+  .project p a {
+    color: white;
+    text-decoration: none;
+  }
+  .project p a:hover {
+    color: blue;
+  }
+
  
 section {
     margin: 30px 20px;
