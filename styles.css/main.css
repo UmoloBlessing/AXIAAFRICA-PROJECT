@@ -113,8 +113,8 @@ nav a:hover {
   }
 
 .project p a {
-    color: black;
     text-decoration: none;
+    color: #000000;
   }
 
 .project p a:hover {
